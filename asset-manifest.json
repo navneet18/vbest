@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9da08b7d.chunk.css",
-    "main.js": "/static/js/main.7799103e.chunk.js",
-    "main.js.map": "/static/js/main.7799103e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fb43805f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fb43805f.js.map",
-    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
-    "static/js/2.e26e5d16.chunk.js": "/static/js/2.e26e5d16.chunk.js",
-    "static/js/2.e26e5d16.chunk.js.map": "/static/js/2.e26e5d16.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d61c4715ee02ca71543323a8a884e067.js": "/precache-manifest.d61c4715ee02ca71543323a8a884e067.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.9da08b7d.chunk.css.map": "/static/css/main.9da08b7d.chunk.css.map",
-    "static/js/2.e26e5d16.chunk.js.LICENSE.txt": "/static/js/2.e26e5d16.chunk.js.LICENSE.txt",
-    "static/media/cimage2.jpeg": "/static/media/cimage2.8fee4502.jpeg",
-    "static/media/logo.jpeg": "/static/media/logo.1c4d05bc.jpeg"
+    "main.css": "/vbest/static/css/main.9da08b7d.chunk.css",
+    "main.js": "/vbest/static/js/main.4d75f01a.chunk.js",
+    "main.js.map": "/vbest/static/js/main.4d75f01a.chunk.js.map",
+    "runtime-main.js": "/vbest/static/js/runtime-main.f8b5f3c1.js",
+    "runtime-main.js.map": "/vbest/static/js/runtime-main.f8b5f3c1.js.map",
+    "static/css/2.2a86faee.chunk.css": "/vbest/static/css/2.2a86faee.chunk.css",
+    "static/js/2.c17e1329.chunk.js": "/vbest/static/js/2.c17e1329.chunk.js",
+    "static/js/2.c17e1329.chunk.js.map": "/vbest/static/js/2.c17e1329.chunk.js.map",
+    "index.html": "/vbest/index.html",
+    "precache-manifest.f3a3fa3e5037ed7f49e2bc1415c09830.js": "/vbest/precache-manifest.f3a3fa3e5037ed7f49e2bc1415c09830.js",
+    "service-worker.js": "/vbest/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/vbest/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.9da08b7d.chunk.css.map": "/vbest/static/css/main.9da08b7d.chunk.css.map",
+    "static/js/2.c17e1329.chunk.js.LICENSE.txt": "/vbest/static/js/2.c17e1329.chunk.js.LICENSE.txt",
+    "static/media/cimage2.jpeg": "/vbest/static/media/cimage2.8fee4502.jpeg",
+    "static/media/logo.jpeg": "/vbest/static/media/logo.1c4d05bc.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb43805f.js",
+    "static/js/runtime-main.f8b5f3c1.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.e26e5d16.chunk.js",
+    "static/js/2.c17e1329.chunk.js",
     "static/css/main.9da08b7d.chunk.css",
-    "static/js/main.7799103e.chunk.js"
+    "static/js/main.4d75f01a.chunk.js"
   ]
 }
